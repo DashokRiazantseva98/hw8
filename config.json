@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "На графе представлены сообщества моих друзей ВКонтакте.",
-    "title": ""
+    "title": "VKgraph"
   },
   "legend": {
     "edgeLabel": "Знакомство",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
